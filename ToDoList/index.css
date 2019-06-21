@@ -1,0 +1,38 @@
+body {
+  background-image: url("../sojuyeon.jpg");
+  background: cover;
+}
+
+.date_JS {
+  display: block;
+  font-size: 2rem;
+  color: white;
+  margin-left: 39%;
+  margin-top: 13%;
+}
+h1 {
+  color: white;
+  display: block;
+  margin-left: 38%;
+}
+form {
+  display: block;
+  margin-left: 38%;
+}
+ul li {
+  color: white;
+  font-size: 1.5rem;
+  margin-left: 0%;
+}
+ul {
+  margin-left: 35%;
+  margin-right: 32%;
+  padding-left: 0;
+  background: rgba(0, 0, 0, 0.2);
+  text-align: left;
+  list-style: none;
+}
+label {
+  color: white;
+  background: rgba(0, 0, 0, 0.2);
+}
